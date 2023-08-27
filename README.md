@@ -28,4 +28,4 @@ It's built using Java Swing, Java GUI, and JFrame, providing an interactive and 
 4. The game will automatically determine the winner or a draw.
 
 ### Connect with Me:
-Connect with me on [LinkedIn](https://www.linkedin.com/in/prajyot-jagtap) to stay updated on my coding journey and more projects like this!
+Connect with me on [Prajyot Jagtap](https://www.linkedin.com/in/prajyot-jagtap) to stay updated on my coding journey and more projects like this!
